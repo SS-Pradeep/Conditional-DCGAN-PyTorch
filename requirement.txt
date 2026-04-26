@@ -1,0 +1,11 @@
+This is a text file that lists all the Python libraries required to run your project without errors. Looking at the import statements in your notebook, your requirements.txt must include:
+
+torch (Core framework for the GAN models)
+
+torchvision (Used for the Fashion-MNIST dataset and image utilities like vutils)
+
+matplotlib (Used for plotting the Training Loss Curves)
+
+numpy (Standard dependency for numeric operations)
+
+scipy (Commonly used for calculating the FID score mentioned in your project overview)
